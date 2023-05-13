@@ -27,3 +27,5 @@ Methods a
 
 # Reflection
 - How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+This course has really opended my eyes to all the inner workings of a full-stack application. It has given me a better understanding of the types of projects and applications that I will be working on in the professional field. I was able to gain new skills in ExpressJS, Angular and nodeJs. To my understanding these are very valuable and sought after skills to have in the coding industry and I am very excited to be able to build more on these skills. I was also able to see first hand how the application all came together from start to finish and I believe this knowledge and understanding will be very valuable in my future career field.
