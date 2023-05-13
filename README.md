@@ -5,7 +5,7 @@ CS 465 Full Stack Development with MEAN
 - Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 
 Express HTML
--Is wriiten in Javascript.
+-Is written in Javascript.
 -Allows the rendering of HTML pages dynamically.
 -Includes various middleware modules which you can use to perform additional tasks on request and response.
 
@@ -15,6 +15,9 @@ Javascript
 -Can be used in game creation, mobile app development, and desktop app development
 
 Single-page application
+-An SPA (Single-page application) is a web app implementation that loads only a single web document, and then updates the body content of that single document via JavaScript APIs such as XMLHttpRequest and Fetch when different content is to be shown.
+- To execute a user’s request, an SPA loads a small JSON file instead of a new web page.
+- Asynchronous requests, when done right, can reduce server load and require less bandwidth.
 
 - Why did the backend use a NoSQL MongoDB database?
 
