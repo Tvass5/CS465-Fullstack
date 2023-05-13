@@ -3,6 +3,19 @@ CS 465 Full Stack Development with MEAN
 
 # Architecture
 - Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
+
+# Express HTML
+-Is wriiten in Javascript.
+-Allows the rendering of HTML pages dynamically.
+-Includes various middleware modules which you can use to perform additional tasks on request and response.
+
+# Javascript
+-JavaScript is an interpreted, lightweight programming language it is incredibly simple to use. It's free to use and cross-platform.
+-Reduces the time required by other programming languages like Java for compilation.
+-Can be used in game creation, mobile app development, and desktop app development
+
+# Single-page application
+
 - Why did the backend use a NoSQL MongoDB database?
 
 MongoDB database was utitlized for this project because of its ablity to scale horizontally and because it allows for easy updates to schemas.
