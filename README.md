@@ -18,7 +18,12 @@ One instance in the full stack development process where I had to refractor code
 
 # Testing
 - Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security.  
+
+When developing this application API unit testing was needed to ensure that each endpoint was a correct response based on the  given request. One way that this testing was done was by sending a request to MongoDB to get and display the trip details on the website.
+
 - Explain your understanding of methods, endpoints, and security in a full stack application. 
+
+Methods a
 
 # Reflection
 - How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
