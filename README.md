@@ -39,7 +39,7 @@ When developing this application API unit testing was needed to ensure that each
 
 - Explain your understanding of methods, endpoints, and security in a full stack application. 
 
-Methods a
+Methods ensure the functionality and dynamics of a web page. Methods can be used to retrieve or modify a database so that a specific functionality can be implemented.
 
 # Reflection
 - How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
