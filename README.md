@@ -39,7 +39,7 @@ When developing this application API unit testing was needed to ensure that each
 
 - Explain your understanding of methods, endpoints, and security in a full stack application. 
 
-Methods ensure the functionality and dynamics of a web page. Methods can be used to retrieve or modify a database so that a specific functionality can be implemented. Some examples of methods are the GET, POST and PUT methods. They use database functions to modify the database according to what the user requires. An endpoint is a remote computing device that communicates back and forth with a network to which it is connected. 
+Methods ensure the functionality and dynamics of a web page. Methods can be used to retrieve or modify a database so that a specific functionality can be implemented. Some examples of methods are the GET, POST and PUT methods. They use database functions to modify the database according to what the user requires. An endpoint is a remote computing device that communicates back and forth with a network to which it is connected. Some exaamples of endpoints are mobile devices and desktop computers. An API endpoint is a digital location where an API receives requests about a specific resource on its server. Security is a layer of code that is put in place to protect the system/application from any unauthorized access or malware.
 
 # Reflection
 - How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
